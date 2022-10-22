@@ -9,7 +9,7 @@ A student Project from the University of Poitiers , in France.
   the code as well as explanations on it but this is only in French unfortunately.
 * Feel free to look at our code but all rights are reserved. 
 
-System.out.print(" [ ///////  Have fun ;) ///////] ");
+printf(" [ ///////  Have fun ;) ///////] ");
 
 
 
@@ -20,4 +20,4 @@ System.out.print(" [ ///////  Have fun ;) ///////] ");
   contient le code ainsi que des explications sur celui-ci mais cela est qu'en français malheureusement.
 * Soyez libre de regarder notre code mais tout droit est reservé. 
 
-System.out.print(" [ /////// Amusez-vous bien ;) ///////] ");
+printf(" [ /////// Amusez-vous bien ;) ///////] ");
