@@ -8,7 +8,7 @@
 
 - Module Morpion.c/Morpion.h :
   
-  o Création Des fonctions pour certains affichages du jeu :
+  o Création des fonctions pour certains affichages du jeu :
   
                  >> menuaffiche()
   
