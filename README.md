@@ -1,5 +1,5 @@
 # Projet-Morpion
-A student Project from the University of Poitiers , in France 
+A student Project from the University of Poitiers , in France.
 
 
 ======================ENGLIISH=====================
