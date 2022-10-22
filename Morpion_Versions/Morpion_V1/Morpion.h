@@ -12,9 +12,6 @@ void initPlateau(TabMorpion jeu, int taille);
 // Affiche le plateau dans la console.
 void printJeu(TabMorpion jeu, int taille);
 
-///  AFFICHAGE GENERALE ///
-void menuaffiche();
-
 
 
 /// FONCTIONS D AJOUT SUR LE PLATEAU ///
@@ -30,7 +27,6 @@ void ajoutesymbole(TabMorpion jeu ,TPlayer p);
 void ParamPlayer(TPlayer *p,int tjoueur);
 TPlayer initplayerX();
 TPlayer initplayerO();
-void printplayer(TPlayer p);
 
 
 
