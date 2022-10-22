@@ -1,11 +1,11 @@
-</\> <u>Changements Générales<\u> :
+</\> Changements Générales :
       •	Création Fichiers/Module :
         o	Main.c
         o	Morpion.c/Morpion.h
         o	Quintuplets.c/ Quintuplets.h
         o	Types.c/Types.h
 
-</\> <u>Changements Spécifiques<\u> :
+</\> Changements Spécifiques :
       •	Module Types.c/Types.h :
         o	Création dans Type.h ,les différentes structures utiles pour le fonctionnement dans le jeu dans .
         o	Implémentation dans Type.c ,des fonctions utiles au bon fonctionnement des listes de quintuplets.
