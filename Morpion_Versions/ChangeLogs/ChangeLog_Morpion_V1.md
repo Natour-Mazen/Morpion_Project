@@ -21,8 +21,6 @@
 
                 >> printJeu()
 
-                >> menuaffiche()
-
                 >> estvidecase()
 
                 >> scancoordonnee()      
@@ -32,8 +30,3 @@
                 >> initplayerX()
 
                 >> initplayerO()
-
-                >> printplayer()
-
-
-
