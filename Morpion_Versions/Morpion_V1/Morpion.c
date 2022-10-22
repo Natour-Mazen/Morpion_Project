@@ -44,34 +44,6 @@ void printJeu(TabMorpion jeu, int taille)
 
 
 
-
-
-
-/**************************************************************************/
-
-                        ///  AFFICHAGE GENERALE ///
-
-/**************************************************************************/
-void menuaffiche()
-{
-    system("color F");
-    int  a = 177,b = 219;
-    printf("\n\n\n\n\n\n");
-    printf("\t\t\t\t\t %c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c\n",b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b);
-    printf("\t\t\t\t\t %c%c                                     %c%c\n",b,b,b,b);
-    printf("\t\t\t\t\t %c%c Bienvenue Dans le tic tac toe 10*10 %c%c\n",b,b,b,b);
-    printf("\t\t\t\t\t %c%c                                     %c%c\n",b,b,b,b);
-    printf("\t\t\t\t\t %c%c%c%c%c%c%c%c%c%c%c%c%c%c Menu Joueur %c%c%c%c%c%c%c%c%c%c%c%c%c%c\n",b,b,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,b,b);
-    printf("\t\t\t\t\t %c%c                                     %c%c\n",b,b,b,b);
-    printf("\t\t\t\t\t %c%c             1 : Humain              %c%c\n",b,b,b,b);
-    printf("\t\t\t\t\t %c%c             2 : Robot               %c%c\n",b,b,b,b);
-    printf("\t\t\t\t\t %c%c                                     %c%c\n",b,b,b,b);
-    printf("\t\t\t\t\t %c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c\n",b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b);
-    printf("\n\n\n\n\n\n");
-}
-
-
-
 /**************************************************************************/
 
                  /// FONCTIONS D AJOUT SUR LE PLATEAU ///
@@ -176,23 +148,6 @@ TPlayer initplayerO()
 
      return p;
  }
-
-void printplayer(TPlayer p)
-{
-    const char* InitialeTypeJoueur[2]={"Humain", "Robot"};
-    const char* InitialeTypeSymbole[3]={"VIDE", "X" , "O"};
-
-    int b = 205;
-    printf("%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c\n",b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b);
-    printf("le type du joueur est : %s\n", InitialeTypeJoueur[p.typejoueur]);
-    printf("le type du Symbole est : %s\n", InitialeTypeSymbole[p.typeSymbole]);
-    printf("le liste gagnante est : %p\n", p.listeGagnant);
-    printf("le type Perdante est : %p\n", p.listePerdante);
-    printf("%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c\n",b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b);
-    printf("\n\n\n\n\n");
-}
-
-
 
 
 
