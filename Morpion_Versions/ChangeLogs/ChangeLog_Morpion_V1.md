@@ -14,9 +14,9 @@
   
   
 - Module Morpion.c/Morpion.h :
-
-           o Création Des fonctions pour le déroulement du jeu :
-
+          
+               o Création des fonctions pour le déroulement du jeu :
+           
                 >> initPlateau()
 
                 >> printJeu()
