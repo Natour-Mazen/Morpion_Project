@@ -18,6 +18,6 @@
 
 -   Module Types.c/Types.h :
   
-      o Création dans Type.h ,les différentes structures utiles pour le fonctionnement           du jeu.
+      o Création dans Type.h ,les différentes structures utiles pour le fonctionnement du jeu.
 
-           o Implémentation dans Type.c ,des fonctions utiles au bon fonctionnement des                 listes de quintuplets.
+           o Implémentation dans Type.c ,des fonctions utiles au bon fonctionnement des listes de quintuplets.
