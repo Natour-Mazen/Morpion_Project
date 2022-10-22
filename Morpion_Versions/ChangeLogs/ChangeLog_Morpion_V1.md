@@ -8,7 +8,7 @@
 
 # <§> **<u>Changements Spécifiques :</u>**
 
-- Main.c :
+- Fichier Main.c :
   
       o  Création des tests afin de vérifier le bon fonctionnement des fonctions du  module Morpion.c/Morpion.h .
   
