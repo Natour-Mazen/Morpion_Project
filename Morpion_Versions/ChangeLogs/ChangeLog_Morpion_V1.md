@@ -10,7 +10,7 @@
 
 - Main.c :
   
-      o  Création des tests afin de vérifier le bon fonctionnement des fonctions du             module Morpion.c/Morpion.h .
+      o  Création des tests afin de vérifier le bon fonctionnement des fonctions du  module Morpion.c/Morpion.h .
   
   
 - Module Morpion.c/Morpion.h :
