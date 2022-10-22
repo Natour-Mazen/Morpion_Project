@@ -1,6 +1,6 @@
 # <§> **<u>Changements Générales :</u>**
 
--    Création Fichiers/Module :
+-    Création Fichiers/Modules :
 
             o Main.c.
 
