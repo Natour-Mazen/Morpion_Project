@@ -14,9 +14,9 @@ printf(" [ ///////  Have fun ;) ///////] ");
 
 
 ======================FRANÇAIS=====================
-* Nous somme 4 étudiants de l'université de Poitiers et nous avons une matiere où nous devons realiser un projet en autonomie, 
-  le sujet est le jeu de Morpion (tic tac toe) mais en version XL . 
-* Sur ce Github nous mettons à jours les differents versions du projet avec des changelogs pour chaque versions, chaque versions 
+* Nous sommes 4 étudiants de l'université de Poitiers et nous avons une matière où nous devons réaliser un projet en autonomie, 
+  le sujet est le jeu de Morpion (tic tac toe) mais en version XL, une variante ressemblant au Gomoku. 
+* Sur ce Github nous mettons à jour les différentes versions du projet avec des changelogs pour chaque version, chaque version
   contient le code ainsi que des explications sur celui-ci mais cela est qu'en français malheureusement.
 * Soyez libre de regarder notre code mais tout droit est reservé. 
 
