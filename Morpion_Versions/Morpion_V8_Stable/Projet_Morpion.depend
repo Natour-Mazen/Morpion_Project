@@ -1,0 +1,387 @@
+# depslib dependency file v1.0
+1664727823 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+
+1664726968 c:\users\mazen\onedrive\desktop\morpion\morpion_v2\morpion.h
+	<stdbool.h>
+	"Types.h"
+
+1664726345 c:\users\mazen\onedrive\desktop\morpion\morpion_v2\types.h
+
+1664639908 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v2\quintuplet.c
+
+1664643135 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v2\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1666038572 source:d:\calen\bureau\morpion_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+
+1666038692 d:\calen\bureau\morpion_v2\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1666038580 d:\calen\bureau\morpion_v2\types.h
+
+1666038708 source:d:\calen\bureau\morpion_v2\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+
+1666038589 source:d:\calen\bureau\morpion_v2\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+
+1666038711 source:d:\calen\bureau\morpion_v2\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1665785433 d:\calen\bureau\morpion_v2\quintuplet.h
+	"Types.h"
+
+1666203275 source:d:\calen\bureau\morpion_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+	"position.h"
+
+1666127810 d:\calen\bureau\morpion_v3\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1666203461 d:\calen\bureau\morpion_v3\types.h
+
+1666039148 d:\calen\bureau\morpion_v3\quintuplet.h
+	"Types.h"
+
+1666203028 source:d:\calen\bureau\morpion_v3\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"position.h"
+
+1666203475 source:d:\calen\bureau\morpion_v3\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"position.h"
+
+1666039148 source:d:\calen\bureau\morpion_v3\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1666202618 source:d:\calen\bureau\morpion_v3\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"position.h"
+
+1666200926 d:\calen\bureau\morpion_v3\position.h
+	<stdbool.h>
+	"Types.h"
+
+1666362355 source:d:\calen\bureau\morpion_v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+	"position.h"
+
+1666362102 d:\calen\bureau\morpion_v4\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1666305685 d:\calen\bureau\morpion_v4\types.h
+
+1666039148 d:\calen\bureau\morpion_v4\quintuplet.h
+	"Types.h"
+
+1666362652 d:\calen\bureau\morpion_v4\position.h
+	<stdbool.h>
+	"Types.h"
+
+1666362619 source:d:\calen\bureau\morpion_v4\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"position.h"
+
+1666362652 source:d:\calen\bureau\morpion_v4\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"position.h"
+
+1666362668 source:d:\calen\bureau\morpion_v4\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"position.h"
+
+1666304612 source:d:\calen\bureau\morpion_v4\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1666392974 source:d:\calen\bureau\morpion_v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+	"position.h"
+
+1666392639 d:\calen\bureau\morpion_v5\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1666389323 d:\calen\bureau\morpion_v5\types.h
+
+1666394898 d:\calen\bureau\morpion_v5\quintuplet.h
+	"Types.h"
+
+1666394897 d:\calen\bureau\morpion_v5\position.h
+	<stdbool.h>
+	"Types.h"
+
+1666390150 source:d:\calen\bureau\morpion_v5\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"position.h"
+
+1666394589 source:d:\calen\bureau\morpion_v5\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"position.h"
+
+1666304612 source:d:\calen\bureau\morpion_v5\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1666392655 source:d:\calen\bureau\morpion_v5\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"position.h"
+
+1666392655 source:d:\calen\bureau\morpion_v6\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"position.h"
+
+1666392639 d:\calen\bureau\morpion_v6\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1666389323 d:\calen\bureau\morpion_v6\types.h
+
+1666394898 d:\calen\bureau\morpion_v6\quintuplet.h
+	"Types.h"
+
+1666394897 d:\calen\bureau\morpion_v6\position.h
+	<stdbool.h>
+	"Types.h"
+
+1666394913 source:d:\calen\bureau\morpion_v6\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"position.h"
+
+1666394589 source:d:\calen\bureau\morpion_v6\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"position.h"
+
+1666304612 source:d:\calen\bureau\morpion_v6\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1668494656 source:d:\calen\bureau\morpion_v8\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"position.h"
+
+1668445472 d:\calen\bureau\morpion_v8\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1666385723 d:\calen\bureau\morpion_v8\types.h
+
+1668002999 d:\calen\bureau\morpion_v8\quintuplet.h
+	"Types.h"
+
+1668288652 d:\calen\bureau\morpion_v8\position.h
+	<stdbool.h>
+	"Types.h"
+
+1668288647 source:d:\calen\bureau\morpion_v8\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"position.h"
+
+1668268472 source:d:\calen\bureau\morpion_v8\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"position.h"
+
+1668257647 source:d:\calen\bureau\morpion_v8\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1668713058 source:d:\calen\bureau\morpion_v8\testmain.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+	"position.h"
+	"windows.h"
+
+1668717332 source:c:\users\mazen\downloads\morpion_v8\morpion_v8\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"position.h"
+
+1668717332 c:\users\mazen\downloads\morpion_v8\morpion_v8\position.h
+	<stdbool.h>
+	"Types.h"
+
+1668719794 c:\users\mazen\downloads\morpion_v8\morpion_v8\types.h
+
+1668717332 source:c:\users\mazen\downloads\morpion_v8\morpion_v8\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"position.h"
+
+1668717332 c:\users\mazen\downloads\morpion_v8\morpion_v8\quintuplet.h
+	"Types.h"
+
+1668720012 source:c:\users\mazen\downloads\morpion_v8\morpion_v8\testmain.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+	"position.h"
+	"windows.h"
+
+1668720033 c:\users\mazen\downloads\morpion_v8\morpion_v8\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1668717332 source:c:\users\mazen\downloads\morpion_v8\morpion_v8\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
+1668720677 source:c:\users\mazen\downloads\morpion_v8\morpion_v8\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"position.h"
+
+1668723836 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v9\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"position.h"
+
+1668720033 c:\users\mazen\onedrive\desktop\morpion\morpion_v9\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+
+1668882102 c:\users\mazen\onedrive\desktop\morpion\morpion_v9\types.h
+
+1668717332 c:\users\mazen\onedrive\desktop\morpion\morpion_v9\quintuplet.h
+	"Types.h"
+
+1668717332 c:\users\mazen\onedrive\desktop\morpion\morpion_v9\position.h
+	<stdbool.h>
+	"Types.h"
+
+1668717332 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v9\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	"position.h"
+
+1668717332 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v9\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"position.h"
+
+1668721228 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v9\testmain.c
+	<stdio.h>
+	<stdlib.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+	"position.h"
+	"windows.h"
+
+1668717332 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v9\types.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Types.h"
+
