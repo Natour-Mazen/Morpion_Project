@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Morpion_v45" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Morpion_v45" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Morpion_v45" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Affichage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Affichage.h" />
+		<Unit filename="AffichageConsole.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AffichageConsole.h" />
+		<Unit filename="Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Morpion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Morpion.h" />
+		<Unit filename="PList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PList.h" />
+		<Unit filename="Position.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Position.h" />
+		<Unit filename="QList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="QList.h" />
+		<Unit filename="Quintuplet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Quintuplet.h" />
+		<Unit filename="SaveLoad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SaveLoad.h" />
+		<Unit filename="SaveLoadInText.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SaveLoadInText.h" />
+		<Unit filename="Types.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
