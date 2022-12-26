@@ -190,7 +190,7 @@ Position readPositionToPlay(TPlayer p, int* X, int* Y, Position* TabPosition, Sy
                 }
                 else
                 {
-                    messageSDL("Case non vide","Cette case est pas vide vous pouvez pas jouer ici");
+                    messageSDL("Case non vide",">> Cette case n'est pas vide vous pouvez pas jouer ici !");
                     break;
                 }
             }
