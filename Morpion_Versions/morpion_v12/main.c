@@ -19,8 +19,8 @@ int main(int argc, char* argv[])
 
 	//Initialisation des Joueurs && affichage du menu.
     TPlayer playerX  , playerO;
-    initplayerX(&playerX,54); // On initilaise des types de joueurs n'importe pour être sûr que si l'utilisateur choisi pas de type on passe dans le CheckTypePlayer
-    initplayerO(&playerO,695); // car sinon le typejoueur X est mis à 0 par defaut or si on a rien choisi c'est problemeatique
+    initplayerX(&playerX,54); // On initilaise des types de joueurs n'importe pour Ãªtre sÃ»r que si l'utilisateur choisi pas de type on passe dans le CheckTypePlayer
+    initplayerO(&playerO,695); // car sinon le typejoueur X est mis Ã  0 par defaut or si on a rien choisi c'est problemeatique
 
     bool continuJeu = true; //Si l'utilisateur quitte l'ecran du menu faut pas lancer le jeu
     MySDL_Menu(&playerX,&playerO,&continuJeu);
@@ -55,7 +55,7 @@ int main(int argc, char* argv[])
         Position* tabPosition = getTabPosition(TAILLEJEU);
         QList mainList = makeMainList(tabPosition);
 
-        // On utilisera cette liste pour supprimer tout les quintuplets à la fin.
+        // On utilisera cette liste pour supprimer tout les quintuplets Ã  la fin.
         QList allQuints = duplicate_QL(mainList);
 
         //Creation de Variables a utiliser pour chaque tour de Jeu
@@ -64,10 +64,10 @@ int main(int argc, char* argv[])
         bool stopgame = false;
 
         //==========================================================================//
-        //=============================== Début du Jeu =============================//
+        //=============================== DÃ©but du Jeu =============================//
         //==========================================================================//
 
-        // Si aucun des deux joueurs ne gagne ou si il y a encore des coup possible à jouer, ou si l'utilisateur n'as pas demandé l'arret du jeu, on continue de jouer.
+        // Si aucun des deux joueurs ne gagne ou si il y a encore des coup possible Ã  jouer, ou si l'utilisateur n'as pas demandÃ© l'arret du jeu, on continue de jouer.
         while (((!Xgagne && !Ogagne) && !((isEmpty_QL(playerO.listeGagnant) || isEmpty_QL(playerX.listeGagnant)) && isEmpty_QL(mainList)) )&&
               !stopgame)
         {
@@ -123,9 +123,9 @@ int main(int argc, char* argv[])
         {
             print_Winner_SDL(2); // joueur avec des ronds
         }
-        else if(!stopgame && !continuJeu)
+        else if(!stopgame )
         {
-           print_Winner_SDL(-1); // Egalité
+           print_Winner_SDL(-1); // EgalitÃ©
         }
 
         //========================================================================//
