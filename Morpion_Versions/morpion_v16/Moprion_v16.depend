@@ -1,0 +1,508 @@
+# depslib dependency file v1.0
+1672180213 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	"Affichage.h"
+
+1672176219 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\affichage.h
+	<stdbool.h>
+	<SDL.h>
+	"AffichageConsole.h"
+	"Types.h"
+	"Morpion.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591264 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591262 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591264 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1648591260 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\sdl2\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1671997721 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\affichageconsole.h
+	<stdbool.h>
+
+1672178883 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\types.h
+	"QList.h"
+
+1671911367 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\qlist.h
+	"Types.h"
+
+1672071708 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\morpion.h
+	<stdbool.h>
+	"Types.h"
+	"Quintuplet.h"
+	"Affichage.h"
+
+1671911367 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\quintuplet.h
+	"Types.h"
+
+1671911367 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\affichageconsole.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"AffichageConsole.h"
+
+1672074352 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Morpion.h"
+	"Position.h"
+
+1671911367 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\position.h
+	<stdbool.h>
+	"Types.h"
+	"PList.h"
+
+1671911367 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\plist.h
+	"Position.h"
+
+1671911367 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\plist.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"PList.h"
+
+1671911367 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\position.c
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	"Position.h"
+
+1671911367 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\qlist.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"QList.h"
+
+1671911367 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\quintuplet.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Quintuplet.h"
+	"Position.h"
+
+1672775083 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\saveloadintext.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SaveLoadInText.h"
+	"Position.h"
+	"Quintuplet.h"
+
+1672774542 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\saveloadintext.h
+	<stdbool.h>
+	"Types.h"
+
+1672775483 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"Morpion.h"
+	"Types.h"
+	"Quintuplet.h"
+	"Position.h"
+	"Affichage.h"
+	"SaveLoad.h"
+
+1672777054 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\saveload.h
+	<stdbool.h>
+	"Types.h"
+	"SaveLoadInText.h"
+	"SaveLoadInBinary.h"
+
+1672775157 c:\users\mazen\onedrive\desktop\morpion\morpion_v16\saveloadinbinary.h
+	<stdbool.h>
+	"Types.h"
+
+1672775156 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\saveloadinbinary.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SaveLoadInBinary.h"
+	"Types.h"
+	"Position.h"
+	"Quintuplet.h"
+
+1672778307 source:c:\users\mazen\onedrive\desktop\morpion\morpion_v16\saveload.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SaveLoad.h"
+	"Types.h"
+	"Position.h"
+
