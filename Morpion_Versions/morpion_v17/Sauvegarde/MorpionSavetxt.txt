@@ -1,0 +1,1379 @@
+SymbolesTab 10
+0 0 0 0 2 0 1 0 2 0 
+0 1 0 0 0 0 0 0 1 1 
+0 0 0 0 0 1 0 2 1 2 
+0 0 2 0 1 2 0 0 2 2 
+0 2 0 1 2 0 1 0 2 1 
+0 0 0 0 2 0 0 1 1 1 
+1 0 1 0 0 2 0 0 2 0 
+2 0 0 1 0 0 0 2 1 0 
+0 0 2 0 0 1 0 0 2 0 
+0 0 0 0 0 0 0 0 0 0 
+TabPos 10
+Pos 0 0 3 0 0 0
+Pos 0 1 4 0 0 0
+Pos 0 2 5 0 0 0
+Pos 0 3 6 0 0 0
+Pos 0 4 8 0 0 0
+Pos 0 5 8 0 0 0
+Pos 0 6 6 0 0 1
+Pos 0 7 5 0 0 2
+Pos 0 8 4 0 0 0
+Pos 0 9 3 0 0 0
+Pos 1 0 4 0 0 0
+Pos 1 1 6 0 0 1
+Pos 1 2 7 0 0 0
+Pos 1 3 9 0 0 0
+Pos 1 4 11 0 0 2
+Pos 1 5 11 0 0 0
+Pos 1 6 9 0 0 0
+Pos 1 7 7 0 0 0
+Pos 1 8 6 0 0 0
+Pos 1 9 4 0 0 0
+Pos 2 0 5 0 0 0
+Pos 2 1 7 0 0 0
+Pos 2 2 10 0 0 0
+Pos 2 3 12 0 0 2
+Pos 2 4 14 0 0 0
+Pos 2 5 14 0 0 0
+Pos 2 6 12 0 0 1
+Pos 2 7 10 0 0 0
+Pos 2 8 7 0 0 2
+Pos 2 9 5 0 0 0
+Pos 3 0 6 0 0 0
+Pos 3 1 9 0 0 0
+Pos 3 2 12 0 0 0
+Pos 3 3 15 0 0 0
+Pos 3 4 17 0 0 1
+Pos 3 5 17 0 0 0
+Pos 3 6 15 0 0 0
+Pos 3 7 12 0 0 1
+Pos 3 8 9 0 0 0
+Pos 3 9 6 0 0 0
+Pos 4 0 8 0 0 2
+Pos 4 1 11 0 0 0
+Pos 4 2 14 0 0 0
+Pos 4 3 17 0 0 1
+Pos 4 4 20 0 0 2
+Pos 4 5 20 0 0 2
+Pos 4 6 17 0 0 0
+Pos 4 7 14 0 0 0
+Pos 4 8 11 0 0 0
+Pos 4 9 8 0 0 0
+Pos 5 0 8 0 0 0
+Pos 5 1 11 0 0 0
+Pos 5 2 14 0 0 1
+Pos 5 3 17 0 0 2
+Pos 5 4 20 0 0 0
+Pos 5 5 20 0 0 0
+Pos 5 6 17 0 0 2
+Pos 5 7 14 0 0 0
+Pos 5 8 11 0 0 1
+Pos 5 9 8 0 0 0
+Pos 6 0 6 0 0 1
+Pos 6 1 9 0 0 0
+Pos 6 2 12 0 0 0
+Pos 6 3 15 0 0 0
+Pos 6 4 17 0 0 1
+Pos 6 5 17 0 0 0
+Pos 6 6 15 0 0 0
+Pos 6 7 12 0 0 0
+Pos 6 8 9 0 0 0
+Pos 6 9 6 0 0 0
+Pos 7 0 5 0 0 0
+Pos 7 1 7 0 0 0
+Pos 7 2 10 0 0 2
+Pos 7 3 12 0 0 0
+Pos 7 4 14 0 0 0
+Pos 7 5 14 0 0 1
+Pos 7 6 12 0 0 0
+Pos 7 7 10 0 0 2
+Pos 7 8 7 0 0 0
+Pos 7 9 5 0 0 0
+Pos 8 0 4 0 0 2
+Pos 8 1 6 0 0 1
+Pos 8 2 7 0 0 1
+Pos 8 3 9 0 0 2
+Pos 8 4 11 0 0 2
+Pos 8 5 11 0 0 1
+Pos 8 6 9 0 0 2
+Pos 8 7 7 0 0 1
+Pos 8 8 6 0 0 2
+Pos 8 9 4 0 0 0
+Pos 9 0 3 0 0 0
+Pos 9 1 4 0 0 1
+Pos 9 2 5 0 0 2
+Pos 9 3 6 0 0 2
+Pos 9 4 8 0 0 1
+Pos 9 5 8 0 0 1
+Pos 9 6 6 0 0 0
+Pos 9 7 5 0 0 0
+Pos 9 8 4 0 0 0
+Pos 9 9 3 0 0 0
+ListQuint 192
+Quint 5 100 1
+P 0 0
+P 1 0
+P 2 0
+P 3 0
+P 4 0
+Quint 5 100 2
+P 0 1
+P 1 1
+P 2 1
+P 3 1
+P 4 1
+Quint 5 0 3
+P 0 2
+P 1 2
+P 2 2
+P 3 2
+P 4 2
+Quint 5 100 4
+P 0 3
+P 1 3
+P 2 3
+P 3 3
+P 4 3
+Quint 5 100 5
+P 0 4
+P 1 4
+P 2 4
+P 3 4
+P 4 4
+Quint 5 100 6
+P 0 5
+P 1 5
+P 2 5
+P 3 5
+P 4 5
+Quint 5 200 7
+P 0 6
+P 1 6
+P 2 6
+P 3 6
+P 4 6
+Quint 5 100 8
+P 0 7
+P 1 7
+P 2 7
+P 3 7
+P 4 7
+Quint 5 100 9
+P 0 8
+P 1 8
+P 2 8
+P 3 8
+P 4 8
+Quint 5 0 10
+P 0 9
+P 1 9
+P 2 9
+P 3 9
+P 4 9
+Quint 5 100 11
+P 1 0
+P 2 0
+P 3 0
+P 4 0
+P 5 0
+Quint 5 100 12
+P 1 1
+P 2 1
+P 3 1
+P 4 1
+P 5 1
+Quint 5 100 13
+P 1 2
+P 2 2
+P 3 2
+P 4 2
+P 5 2
+Quint 5 200 14
+P 1 3
+P 2 3
+P 3 3
+P 4 3
+P 5 3
+Quint 5 100 15
+P 1 4
+P 2 4
+P 3 4
+P 4 4
+P 5 4
+Quint 5 100 16
+P 1 5
+P 2 5
+P 3 5
+P 4 5
+P 5 5
+Quint 5 100 17
+P 1 6
+P 2 6
+P 3 6
+P 4 6
+P 5 6
+Quint 5 100 18
+P 1 7
+P 2 7
+P 3 7
+P 4 7
+P 5 7
+Quint 5 100 19
+P 1 8
+P 2 8
+P 3 8
+P 4 8
+P 5 8
+Quint 5 0 20
+P 1 9
+P 2 9
+P 3 9
+P 4 9
+P 5 9
+Quint 5 100 21
+P 2 0
+P 3 0
+P 4 0
+P 5 0
+P 6 0
+Quint 5 0 22
+P 2 1
+P 3 1
+P 4 1
+P 5 1
+P 6 1
+Quint 5 100 23
+P 2 2
+P 3 2
+P 4 2
+P 5 2
+P 6 2
+Quint 5 200 24
+P 2 3
+P 3 3
+P 4 3
+P 5 3
+P 6 3
+Quint 5 100 25
+P 2 4
+P 3 4
+P 4 4
+P 5 4
+P 6 4
+Quint 5 100 26
+P 2 5
+P 3 5
+P 4 5
+P 5 5
+P 6 5
+Quint 5 100 27
+P 2 6
+P 3 6
+P 4 6
+P 5 6
+P 6 6
+Quint 5 100 28
+P 2 7
+P 3 7
+P 4 7
+P 5 7
+P 6 7
+Quint 5 100 29
+P 2 8
+P 3 8
+P 4 8
+P 5 8
+P 6 8
+Quint 5 0 30
+P 2 9
+P 3 9
+P 4 9
+P 5 9
+P 6 9
+Quint 5 100 31
+P 3 0
+P 4 0
+P 5 0
+P 6 0
+P 7 0
+Quint 5 0 32
+P 3 1
+P 4 1
+P 5 1
+P 6 1
+P 7 1
+Quint 5 100 33
+P 3 2
+P 4 2
+P 5 2
+P 6 2
+P 7 2
+Quint 5 100 34
+P 3 3
+P 4 3
+P 5 3
+P 6 3
+P 7 3
+Quint 5 100 35
+P 3 4
+P 4 4
+P 5 4
+P 6 4
+P 7 4
+Quint 5 100 36
+P 3 5
+P 4 5
+P 5 5
+P 6 5
+P 7 5
+Quint 5 100 37
+P 3 6
+P 4 6
+P 5 6
+P 6 6
+P 7 6
+Quint 5 100 38
+P 3 7
+P 4 7
+P 5 7
+P 6 7
+P 7 7
+Quint 5 100 39
+P 3 8
+P 4 8
+P 5 8
+P 6 8
+P 7 8
+Quint 5 0 40
+P 3 9
+P 4 9
+P 5 9
+P 6 9
+P 7 9
+Quint 5 100 41
+P 4 0
+P 5 0
+P 6 0
+P 7 0
+P 8 0
+Quint 5 100 42
+P 4 1
+P 5 1
+P 6 1
+P 7 1
+P 8 1
+Quint 5 100 43
+P 4 2
+P 5 2
+P 6 2
+P 7 2
+P 8 2
+Quint 5 100 44
+P 4 3
+P 5 3
+P 6 3
+P 7 3
+P 8 3
+Quint 5 100 45
+P 4 4
+P 5 4
+P 6 4
+P 7 4
+P 8 4
+Quint 5 100 46
+P 4 5
+P 5 5
+P 6 5
+P 7 5
+P 8 5
+Quint 5 200 47
+P 4 6
+P 5 6
+P 6 6
+P 7 6
+P 8 6
+Quint 5 100 48
+P 4 7
+P 5 7
+P 6 7
+P 7 7
+P 8 7
+Quint 5 100 49
+P 4 8
+P 5 8
+P 6 8
+P 7 8
+P 8 8
+Quint 5 0 50
+P 4 9
+P 5 9
+P 6 9
+P 7 9
+P 8 9
+Quint 5 100 51
+P 5 0
+P 6 0
+P 7 0
+P 8 0
+P 9 0
+Quint 5 200 52
+P 5 1
+P 6 1
+P 7 1
+P 8 1
+P 9 1
+Quint 5 100 53
+P 5 2
+P 6 2
+P 7 2
+P 8 2
+P 9 2
+Quint 5 300 54
+P 5 3
+P 6 3
+P 7 3
+P 8 3
+P 9 3
+Quint 5 200 55
+P 5 4
+P 6 4
+P 7 4
+P 8 4
+P 9 4
+Quint 5 300 56
+P 5 5
+P 6 5
+P 7 5
+P 8 5
+P 9 5
+Quint 5 200 57
+P 5 6
+P 6 6
+P 7 6
+P 8 6
+P 9 6
+Quint 5 100 58
+P 5 7
+P 6 7
+P 7 7
+P 8 7
+P 9 7
+Quint 5 100 59
+P 5 8
+P 6 8
+P 7 8
+P 8 8
+P 9 8
+Quint 5 0 60
+P 5 9
+P 6 9
+P 7 9
+P 8 9
+P 9 9
+Quint 5 0 61
+P 0 0
+P 0 1
+P 0 2
+P 0 3
+P 0 4
+Quint 5 0 62
+P 0 1
+P 0 2
+P 0 3
+P 0 4
+P 0 5
+Quint 5 100 63
+P 0 2
+P 0 3
+P 0 4
+P 0 5
+P 0 6
+Quint 5 100 64
+P 0 3
+P 0 4
+P 0 5
+P 0 6
+P 0 7
+Quint 5 100 65
+P 0 4
+P 0 5
+P 0 6
+P 0 7
+P 0 8
+Quint 5 100 66
+P 0 5
+P 0 6
+P 0 7
+P 0 8
+P 0 9
+Quint 5 100 67
+P 1 0
+P 1 1
+P 1 2
+P 1 3
+P 1 4
+Quint 5 100 68
+P 1 1
+P 1 2
+P 1 3
+P 1 4
+P 1 5
+Quint 5 100 69
+P 1 2
+P 1 3
+P 1 4
+P 1 5
+P 1 6
+Quint 5 100 70
+P 1 3
+P 1 4
+P 1 5
+P 1 6
+P 1 7
+Quint 5 100 71
+P 1 4
+P 1 5
+P 1 6
+P 1 7
+P 1 8
+Quint 5 0 72
+P 1 5
+P 1 6
+P 1 7
+P 1 8
+P 1 9
+Quint 5 100 73
+P 2 0
+P 2 1
+P 2 2
+P 2 3
+P 2 4
+Quint 5 100 74
+P 2 1
+P 2 2
+P 2 3
+P 2 4
+P 2 5
+Quint 5 100 75
+P 2 2
+P 2 3
+P 2 4
+P 2 5
+P 2 6
+Quint 5 100 76
+P 2 3
+P 2 4
+P 2 5
+P 2 6
+P 2 7
+Quint 5 100 77
+P 2 4
+P 2 5
+P 2 6
+P 2 7
+P 2 8
+Quint 5 100 78
+P 2 5
+P 2 6
+P 2 7
+P 2 8
+P 2 9
+Quint 5 100 79
+P 3 0
+P 3 1
+P 3 2
+P 3 3
+P 3 4
+Quint 5 100 80
+P 3 1
+P 3 2
+P 3 3
+P 3 4
+P 3 5
+Quint 5 100 81
+P 3 2
+P 3 3
+P 3 4
+P 3 5
+P 3 6
+Quint 5 200 82
+P 3 3
+P 3 4
+P 3 5
+P 3 6
+P 3 7
+Quint 5 200 83
+P 3 4
+P 3 5
+P 3 6
+P 3 7
+P 3 8
+Quint 5 100 84
+P 3 5
+P 3 6
+P 3 7
+P 3 8
+P 3 9
+Quint 5 100 85
+P 4 0
+P 4 1
+P 4 2
+P 4 3
+P 4 4
+Quint 5 100 86
+P 4 1
+P 4 2
+P 4 3
+P 4 4
+P 4 5
+Quint 5 100 87
+P 4 2
+P 4 3
+P 4 4
+P 4 5
+P 4 6
+Quint 5 100 88
+P 4 3
+P 4 4
+P 4 5
+P 4 6
+P 4 7
+Quint 5 200 89
+P 4 4
+P 4 5
+P 4 6
+P 4 7
+P 4 8
+Quint 5 100 90
+P 4 5
+P 4 6
+P 4 7
+P 4 8
+P 4 9
+Quint 5 100 91
+P 5 0
+P 5 1
+P 5 2
+P 5 3
+P 5 4
+Quint 5 100 92
+P 5 1
+P 5 2
+P 5 3
+P 5 4
+P 5 5
+Quint 5 100 93
+P 5 2
+P 5 3
+P 5 4
+P 5 5
+P 5 6
+Quint 5 200 94
+P 5 3
+P 5 4
+P 5 5
+P 5 6
+P 5 7
+Quint 5 100 95
+P 5 4
+P 5 5
+P 5 6
+P 5 7
+P 5 8
+Quint 5 100 96
+P 5 5
+P 5 6
+P 5 7
+P 5 8
+P 5 9
+Quint 5 200 97
+P 6 0
+P 6 1
+P 6 2
+P 6 3
+P 6 4
+Quint 5 100 98
+P 6 1
+P 6 2
+P 6 3
+P 6 4
+P 6 5
+Quint 5 100 99
+P 6 2
+P 6 3
+P 6 4
+P 6 5
+P 6 6
+Quint 5 100 100
+P 6 3
+P 6 4
+P 6 5
+P 6 6
+P 6 7
+Quint 5 100 101
+P 6 4
+P 6 5
+P 6 6
+P 6 7
+P 6 8
+Quint 5 0 102
+P 6 5
+P 6 6
+P 6 7
+P 6 8
+P 6 9
+Quint 5 100 103
+P 7 0
+P 7 1
+P 7 2
+P 7 3
+P 7 4
+Quint 5 100 104
+P 7 1
+P 7 2
+P 7 3
+P 7 4
+P 7 5
+Quint 5 100 105
+P 7 2
+P 7 3
+P 7 4
+P 7 5
+P 7 6
+Quint 5 100 106
+P 7 3
+P 7 4
+P 7 5
+P 7 6
+P 7 7
+Quint 5 100 107
+P 7 4
+P 7 5
+P 7 6
+P 7 7
+P 7 8
+Quint 5 100 108
+P 7 5
+P 7 6
+P 7 7
+P 7 8
+P 7 9
+Quint 5 200 109
+P 8 0
+P 8 1
+P 8 2
+P 8 3
+P 8 4
+Quint 5 100 110
+P 8 1
+P 8 2
+P 8 3
+P 8 4
+P 8 5
+Quint 5 100 111
+P 8 2
+P 8 3
+P 8 4
+P 8 5
+P 8 6
+Quint 5 100 112
+P 8 3
+P 8 4
+P 8 5
+P 8 6
+P 8 7
+Quint 5 100 113
+P 8 4
+P 8 5
+P 8 6
+P 8 7
+P 8 8
+Quint 5 100 114
+P 8 5
+P 8 6
+P 8 7
+P 8 8
+P 8 9
+Quint 5 200 115
+P 9 0
+P 9 1
+P 9 2
+P 9 3
+P 9 4
+Quint 5 200 116
+P 9 1
+P 9 2
+P 9 3
+P 9 4
+P 9 5
+Quint 5 100 117
+P 9 2
+P 9 3
+P 9 4
+P 9 5
+P 9 6
+Quint 5 100 118
+P 9 3
+P 9 4
+P 9 5
+P 9 6
+P 9 7
+Quint 5 200 119
+P 9 4
+P 9 5
+P 9 6
+P 9 7
+P 9 8
+Quint 5 100 120
+P 9 5
+P 9 6
+P 9 7
+P 9 8
+P 9 9
+Quint 5 100 121
+P 0 0
+P 1 1
+P 2 2
+P 3 3
+P 4 4
+Quint 5 100 122
+P 0 1
+P 1 2
+P 2 3
+P 3 4
+P 4 5
+Quint 5 0 123
+P 0 2
+P 1 3
+P 2 4
+P 3 5
+P 4 6
+Quint 5 100 124
+P 0 3
+P 1 4
+P 2 5
+P 3 6
+P 4 7
+Quint 5 200 125
+P 0 4
+P 1 5
+P 2 6
+P 3 7
+P 4 8
+Quint 5 0 126
+P 0 5
+P 1 6
+P 2 7
+P 3 8
+P 4 9
+Quint 5 100 127
+P 1 0
+P 2 1
+P 3 2
+P 4 3
+P 5 4
+Quint 5 100 128
+P 1 1
+P 2 2
+P 3 3
+P 4 4
+P 5 5
+Quint 5 100 129
+P 1 2
+P 2 3
+P 3 4
+P 4 5
+P 5 6
+Quint 5 0 130
+P 1 3
+P 2 4
+P 3 5
+P 4 6
+P 5 7
+Quint 5 100 131
+P 1 4
+P 2 5
+P 3 6
+P 4 7
+P 5 8
+Quint 5 200 132
+P 1 5
+P 2 6
+P 3 7
+P 4 8
+P 5 9
+Quint 5 100 133
+P 2 0
+P 3 1
+P 4 2
+P 5 3
+P 6 4
+Quint 5 100 134
+P 2 1
+P 3 2
+P 4 3
+P 5 4
+P 6 5
+Quint 5 100 135
+P 2 2
+P 3 3
+P 4 4
+P 5 5
+P 6 6
+Quint 5 100 136
+P 2 3
+P 3 4
+P 4 5
+P 5 6
+P 6 7
+Quint 5 0 137
+P 2 4
+P 3 5
+P 4 6
+P 5 7
+P 6 8
+Quint 5 100 138
+P 2 5
+P 3 6
+P 4 7
+P 5 8
+P 6 9
+Quint 5 100 139
+P 3 0
+P 4 1
+P 5 2
+P 6 3
+P 7 4
+Quint 5 100 140
+P 3 1
+P 4 2
+P 5 3
+P 6 4
+P 7 5
+Quint 5 100 141
+P 3 2
+P 4 3
+P 5 4
+P 6 5
+P 7 6
+Quint 5 200 142
+P 3 3
+P 4 4
+P 5 5
+P 6 6
+P 7 7
+Quint 5 100 143
+P 3 4
+P 4 5
+P 5 6
+P 6 7
+P 7 8
+Quint 5 0 144
+P 3 5
+P 4 6
+P 5 7
+P 6 8
+P 7 9
+Quint 5 200 145
+P 4 0
+P 5 1
+P 6 2
+P 7 3
+P 8 4
+Quint 5 200 146
+P 4 1
+P 5 2
+P 6 3
+P 7 4
+P 8 5
+Quint 5 100 147
+P 4 2
+P 5 3
+P 6 4
+P 7 5
+P 8 6
+Quint 5 200 148
+P 4 3
+P 5 4
+P 6 5
+P 7 6
+P 8 7
+Quint 5 300 149
+P 4 4
+P 5 5
+P 6 6
+P 7 7
+P 8 8
+Quint 5 200 150
+P 4 5
+P 5 6
+P 6 7
+P 7 8
+P 8 9
+Quint 5 100 151
+P 5 0
+P 6 1
+P 7 2
+P 8 3
+P 9 4
+Quint 5 100 152
+P 5 1
+P 6 2
+P 7 3
+P 8 4
+P 9 5
+Quint 5 200 153
+P 5 2
+P 6 3
+P 7 4
+P 8 5
+P 9 6
+Quint 5 100 154
+P 5 3
+P 6 4
+P 7 5
+P 8 6
+P 9 7
+Quint 5 100 155
+P 5 4
+P 6 5
+P 7 6
+P 8 7
+P 9 8
+Quint 5 200 156
+P 5 5
+P 6 6
+P 7 7
+P 8 8
+P 9 9
+Quint 5 100 157
+P 0 4
+P 1 3
+P 2 2
+P 3 1
+P 4 0
+Quint 5 200 158
+P 0 5
+P 1 4
+P 2 3
+P 3 2
+P 4 1
+Quint 5 100 159
+P 0 6
+P 1 5
+P 2 4
+P 3 3
+P 4 2
+Quint 5 200 160
+P 0 7
+P 1 6
+P 2 5
+P 3 4
+P 4 3
+Quint 5 100 161
+P 0 8
+P 1 7
+P 2 6
+P 3 5
+P 4 4
+Quint 5 100 162
+P 0 9
+P 1 8
+P 2 7
+P 3 6
+P 4 5
+Quint 5 200 163
+P 1 4
+P 2 3
+P 3 2
+P 4 1
+P 5 0
+Quint 5 0 164
+P 1 5
+P 2 4
+P 3 3
+P 4 2
+P 5 1
+Quint 5 300 165
+P 1 6
+P 2 5
+P 3 4
+P 4 3
+P 5 2
+Quint 5 200 166
+P 1 7
+P 2 6
+P 3 5
+P 4 4
+P 5 3
+Quint 5 100 167
+P 1 8
+P 2 7
+P 3 6
+P 4 5
+P 5 4
+Quint 5 100 168
+P 1 9
+P 2 8
+P 3 7
+P 4 6
+P 5 5
+Quint 5 100 169
+P 2 4
+P 3 3
+P 4 2
+P 5 1
+P 6 0
+Quint 5 300 170
+P 2 5
+P 3 4
+P 4 3
+P 5 2
+P 6 1
+Quint 5 200 171
+P 2 6
+P 3 5
+P 4 4
+P 5 3
+P 6 2
+Quint 5 100 172
+P 2 7
+P 3 6
+P 4 5
+P 5 4
+P 6 3
+Quint 5 200 173
+P 2 8
+P 3 7
+P 4 6
+P 5 5
+P 6 4
+Quint 5 100 174
+P 2 9
+P 3 8
+P 4 7
+P 5 6
+P 6 5
+Quint 5 300 175
+P 3 4
+P 4 3
+P 5 2
+P 6 1
+P 7 0
+Quint 5 200 176
+P 3 5
+P 4 4
+P 5 3
+P 6 2
+P 7 1
+Quint 5 200 177
+P 3 6
+P 4 5
+P 5 4
+P 6 3
+P 7 2
+Quint 5 200 178
+P 3 7
+P 4 6
+P 5 5
+P 6 4
+P 7 3
+Quint 5 100 179
+P 3 8
+P 4 7
+P 5 6
+P 6 5
+P 7 4
+Quint 5 100 180
+P 3 9
+P 4 8
+P 5 7
+P 6 6
+P 7 5
+Quint 5 300 181
+P 4 4
+P 5 3
+P 6 2
+P 7 1
+P 8 0
+Quint 5 200 182
+P 4 5
+P 5 4
+P 6 3
+P 7 2
+P 8 1
+Quint 5 200 183
+P 4 6
+P 5 5
+P 6 4
+P 7 3
+P 8 2
+Quint 5 200 184
+P 4 7
+P 5 6
+P 6 5
+P 7 4
+P 8 3
+Quint 5 100 185
+P 4 8
+P 5 7
+P 6 6
+P 7 5
+P 8 4
+Quint 5 200 186
+P 4 9
+P 5 8
+P 6 7
+P 7 6
+P 8 5
+Quint 5 100 187
+P 5 4
+P 6 3
+P 7 2
+P 8 1
+P 9 0
+Quint 5 300 188
+P 5 5
+P 6 4
+P 7 3
+P 8 2
+P 9 1
+Quint 5 300 189
+P 5 6
+P 6 5
+P 7 4
+P 8 3
+P 9 2
+Quint 5 100 190
+P 5 7
+P 6 6
+P 7 5
+P 8 4
+P 9 3
+Quint 5 300 191
+P 5 8
+P 6 7
+P 7 6
+P 8 5
+P 9 4
+Quint 5 100 192
+P 5 9
+P 6 8
+P 7 7
+P 8 6
+P 9 5
+ListLiteQuint 19
+QuintLite 3
+QuintLite 10
+QuintLite 20
+QuintLite 22
+QuintLite 30
+QuintLite 32
+QuintLite 40
+QuintLite 50
+QuintLite 60
+QuintLite 61
+QuintLite 62
+QuintLite 72
+QuintLite 102
+QuintLite 123
+QuintLite 126
+QuintLite 130
+QuintLite 137
+QuintLite 144
+QuintLite 164
+Player 0 1
+ListLiteQuint 49
+QuintLite 175
+QuintLite 170
+QuintLite 165
+QuintLite 83
+QuintLite 82
+QuintLite 81
+QuintLite 80
+QuintLite 79
+QuintLite 153
+QuintLite 146
+QuintLite 139
+QuintLite 23
+QuintLite 13
+QuintLite 148
+QuintLite 141
+QuintLite 134
+QuintLite 127
+QuintLite 188
+QuintLite 183
+QuintLite 178
+QuintLite 101
+QuintLite 100
+QuintLite 99
+QuintLite 98
+QuintLite 97
+QuintLite 191
+QuintLite 119
+QuintLite 132
+QuintLite 125
+QuintLite 84
+QuintLite 28
+QuintLite 18
+QuintLite 159
+QuintLite 63
+QuintLite 7
+QuintLite 186
+QuintLite 138
+QuintLite 59
+QuintLite 49
+QuintLite 39
+QuintLite 180
+QuintLite 56
+QuintLite 12
+QuintLite 2
+QuintLite 169
+QuintLite 52
+QuintLite 42
+QuintLite 120
+QuintLite 155
+ListLiteQuint 0
+Player 0 2
+ListLiteQuint 39
+QuintLite 163
+QuintLite 158
+QuintLite 74
+QuintLite 73
+QuintLite 181
+QuintLite 176
+QuintLite 94
+QuintLite 54
+QuintLite 149
+QuintLite 142
+QuintLite 135
+QuintLite 89
+QuintLite 177
+QuintLite 103
+QuintLite 156
+QuintLite 189
+QuintLite 184
+QuintLite 179
+QuintLite 174
+QuintLite 150
+QuintLite 57
+QuintLite 47
+QuintLite 37
+QuintLite 9
+QuintLite 172
+QuintLite 167
+QuintLite 162
+QuintLite 90
+QuintLite 26
+QuintLite 16
+QuintLite 6
+QuintLite 124
+QuintLite 71
+QuintLite 70
+QuintLite 69
+QuintLite 157
+QuintLite 145
+QuintLite 11
+QuintLite 1
+ListLiteQuint 0
