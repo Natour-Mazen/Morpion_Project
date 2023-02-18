@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="Position.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="773" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="Morpion.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4422" topLine="96" />
+		</Cursor>
+		<Folding>
+			<Collapse line="71" />
+			<Collapse line="77" />
+			<Collapse line="94" />
+			<Collapse line="113" />
+			<Collapse line="133" />
+			<Collapse line="150" />
+			<Collapse line="182" />
+			<Collapse line="213" />
+			<Collapse line="233" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4185" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="SaveLoadInBinary.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="87" />
+		</Cursor>
+	</File>
+	<File name="Affichage.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="526" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="SaveLoad.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="326" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Morpion.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="663" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="Affichage.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13726" topLine="72" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="57" />
+			<Collapse line="90" />
+			<Collapse line="143" />
+			<Collapse line="167" />
+			<Collapse line="184" />
+			<Collapse line="236" />
+			<Collapse line="280" />
+			<Collapse line="425" />
+			<Collapse line="442" />
+			<Collapse line="464" />
+			<Collapse line="516" />
+			<Collapse line="530" />
+			<Collapse line="569" />
+			<Collapse line="586" />
+			<Collapse line="606" />
+			<Collapse line="630" />
+			<Collapse line="647" />
+		</Folding>
+	</File>
+	<File name="SaveLoad.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1041" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Types.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="804" topLine="12" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
