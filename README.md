@@ -23,5 +23,5 @@ printf(" [ ///////  Have fun ;) ///////] ");
 printf(" [ /////// Amusez-vous bien ;) ///////] ");
 
 ==================A Demo/une Demo===================
-* for the simple version / pour la version simple :
+* Pour la version simple / For the simple version :
     * En suivant ce lien /By following this link : https://youtube.com/shorts/Trgk00J3sxE
