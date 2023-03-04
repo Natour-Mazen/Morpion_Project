@@ -21,3 +21,7 @@ printf(" [ ///////  Have fun ;) ///////] ");
 * Soyez libre de regarder notre code mais tout droit est reservé. 
 
 printf(" [ /////// Amusez-vous bien ;) ///////] ");
+
+==================A Demo/une Demo===================
+* for the simple version / pour la version simple :
+    * En suivant ce lien /By following this link : https://youtube.com/shorts/Trgk00J3sxE
