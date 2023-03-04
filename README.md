@@ -24,6 +24,6 @@ printf(" [ /////// Amusez-vous bien ;) ///////] ");
 
 ==================A Demo/une Demo===================
 * Pour la version simple / For the simple version :
-    * En suivant ce lien /By following this link : https://youtube.com/shorts/Trgk00J3sxE
+    * En suivant ce lien / By following this link : https://youtube.com/shorts/Trgk00J3sxE
 * Pour la version plus complexe / For the more complex version :
-    * En suivant ce lien /By following this link : 
+    * En suivant ce lien / By following this link : 
